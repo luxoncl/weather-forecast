@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+.inputBox{
+    display:grid;
+    place-items:center;
+    height:100vh;
+    font-family: Montserrat;
+    border: 15px;
+    background-color: white;
+}
+.inputBox_field{
+    padding:10%;
+    text-align: center;
+    background-color: white;
+    border-radius:30px;
+    box-shadow:0 5px 6px rgba(191, 21, 21, 0.698),0 2px 3px rgba(214, 27, 27, 0.822);
+    margin:20px;
+    
+
+}
+.inputBox_field >h1{
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
